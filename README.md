@@ -9,4 +9,4 @@
 
 > Thank you!
 > PS. I don't really know and am unable to understand how to make one with correct format :(
-  WOuld love to learn this too (if possible)
+  Would love to learn this too (if possible)
