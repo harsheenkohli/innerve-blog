@@ -1,0 +1,88 @@
+body {
+    background-color : #02040f;
+}
+
+.navbar-brand {
+    font-size: 18pt;
+}
+  
+.handjet {
+    font-family: 'Handjet', cursive;
+}
+
+.active {
+    font-weight: bold;
+    color: #deffff;
+}
+.container-fluid {
+    background-color: #021342;
+}
+  
+.navbar.bg-body-tertiary {
+    border: none;
+    margin: 0;
+}
+  
+.dropdown-menu .dropdown-item {
+    color: black;
+}
+
+.navbar {
+    --bs-navbar-padding-x: 0;
+    --bs-navbar-padding-y: 0;
+    position: relative;
+}
+
+.blog-container {
+    position: absolute;
+    margin: 24px;
+}
+
+.merriweather {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.text-body-emphasis {
+    text-decoration-color: white;
+}
+
+.bg-body-secondary {
+    background: linear-gradient(275deg, #161627, #0c0c42, #0f0f0f);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+}
+
+.blog-container .col-lg-6 {
+    padding-left: 30px;
+}
+
+.blog-container .col-lg-6 img {
+    height: 250px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.blog-logo{
+    width: 100px; /* Set the desired width in pixels */
+    height: auto; /* This will maintain the aspect ratio */
+}
+
+.album {
+    margin-top: 470px;
+}
+
+.card {
+    background: linear-gradient(275deg, #161627, #0c0c42, #0f0f0f);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+}
+
+.card-text, .text-body-light, .white-text {
+    color: white;
+}
+
+.white-text {
+    margin-left: 17px;
+    margin-top: 10px;
+    font-family: 'Lilita One', cursive;
+}
