@@ -86,3 +86,7 @@ body {
     margin-top: 10px;
     font-family: 'Lilita One', cursive;
 }
+
+::selection {
+    background-color : transparent;
+}
